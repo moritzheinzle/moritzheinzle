@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at HTL - Bulme Graz<br>In love with climbing<br>I like writing algorithms<br>Currently learning C / C++
+Student at HTL - Bulme Graz<br>In love with climbing<br>I like writing algorithms<br>Currently learning C / C++ / Python
 
 
 ## 🌐 Socials:
