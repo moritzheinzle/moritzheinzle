@@ -1,5 +1,5 @@
 # 💫 About Me:
-📈Currently working on maths animations videos<br>🏫Student at HTL - Bulme Graz<br>🧗🏻‍♀️In love with climbing<br>⚙️I like writing algorithms<br>👩🏻‍💻Currently learning C / C++ / Python
+🏫Student at HTL - Bulme Graz<br>🧗🏻‍♀️In love with climbing<br>⚙️I like writing algorithms<br>👩🏻‍💻Currently learning C / C++ / Python
 
 
 ## 🌐 Socials:
